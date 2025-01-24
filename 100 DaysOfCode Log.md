@@ -19,3 +19,9 @@ Things I learned:
 
 Challenges faced:
 Initially, I encountered difficulties grasping the concept of view composers. However, through consistent practice and the guidance of a YouTube tutorial, I successfully overcame these challenges.
+
+Day 4
+
+✅ I learned Eloquent ORM
+✅ Basic CRUD using Eloquent 
+✅ Examining Attribute change and Mass Assignment
