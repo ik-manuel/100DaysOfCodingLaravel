@@ -33,3 +33,11 @@ Day 5
 ✅ Restoring Soft Deleted Model
 ✅ And permanently delete a Model
 
+
+Day 6
+
+🚀 Learned Eloquent - Relationships
+✅ One to One
+✅ One to Many
+✅ Inverse (belongs to)
+✅ Many to Many
