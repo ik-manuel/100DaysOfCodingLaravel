@@ -25,3 +25,11 @@ Day 4
 ✅ I learned Eloquent ORM
 ✅ Basic CRUD using Eloquent 
 ✅ Examining Attribute change and Mass Assignment
+
+Day 5
+
+🚀 Continue practicing with Eloquent on how:
+✅ Eloquent SoftDeletes
+✅ Restoring Soft Deleted Model
+✅ And permanently delete a Model
+
