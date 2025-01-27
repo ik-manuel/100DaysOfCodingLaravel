@@ -41,3 +41,13 @@ Day 6
 ✅ One to Many
 ✅ Inverse (belongs to)
 ✅ Many to Many
+
+
+Day 7
+
+🚀 Continued with Eloquent - Relationships:
+✅ Has One/Has Many Through
+✅ One to One (Polymorphic) 
+✅ One to Many (Polymorphic)
+✅ Many to Many (Polymorphic)
+
