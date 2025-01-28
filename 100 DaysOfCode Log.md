@@ -51,3 +51,10 @@ Day 7
 ✅ One to Many (Polymorphic)
 ✅ Many to Many (Polymorphic)
 
+
+Day 8
+
+🚀 So today I continued with Eloquent Relation.
+How to:
+✅ Define the Inverse of the Relationship
+✅ Retrieve the Relationship
