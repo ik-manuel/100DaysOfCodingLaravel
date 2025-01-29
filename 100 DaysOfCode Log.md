@@ -58,3 +58,10 @@ Day 8
 How to:
 ✅ Define the Inverse of the Relationship
 ✅ Retrieve the Relationship
+
+
+Day 9
+
+🚀 I learned:
+✅ Migrations: how to create and run database migrations to manage schema changes.
+✅ Seeders: how to seed database with initial data.
