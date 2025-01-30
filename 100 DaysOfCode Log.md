@@ -65,3 +65,11 @@ Day 9
 🚀 I learned:
 ✅ Migrations: how to create and run database migrations to manage schema changes.
 ✅ Seeders: how to seed database with initial data.
+
+
+Day 10
+
+🚀 Today, I recap on the things I have learned from day 1:
+✅ Create a new Laravel project
+✅ Revisit  Laravel documentation on topic I have treated (Controller, Route, and Model. 
+✅ Created few migration for the new project file
