@@ -73,3 +73,11 @@ Day 10
 ✅ Create a new Laravel project
 ✅ Revisit  Laravel documentation on topic I have treated (Controller, Route, and Model. 
 ✅ Created few migration for the new project file
+
+
+Day 11
+
+🚀 Today, I did the CRUD operation using:
+✅ One to One Eloquent Relationship
+✅ One to Many Relationship
+✅ Many to Many Relationship 
