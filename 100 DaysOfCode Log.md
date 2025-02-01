@@ -81,3 +81,11 @@ Day 11
 ✅ One to One Eloquent Relationship
 ✅ One to Many Relationship
 ✅ Many to Many Relationship 
+
+
+Day 12
+
+🚀 I learned how to attach and detach a relation using attach, detach and sync method.
+✅ CRUD operation on Polymorphic Relation:
+-- One to Many Relationship
+-- Many to Many Relationship
