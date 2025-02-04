@@ -89,3 +89,23 @@ Day 12
 ✅ CRUD operation on Polymorphic Relation:
 -- One to Many Relationship
 -- Many to Many Relationship
+
+
+I forgot to update my progress on GitHub after updating on X,
+below is my day 13 & 14
+
+
+Day 13
+
+🚀 I reorganized my entire Laravel 100 days of code project.
+✅ Refactored code, added comments, and 
+✅ Committed the changes to Git.
+
+
+Day 14
+
+🚀 Learned Laravel Authentication: Starter Kits like
+✅ Laravel Breeze
+✅ Laravel Jetstream and 
+✅ Laravel Fortify
+Tomorrow I will be building a simple Authentication app for registration & login
