@@ -109,3 +109,14 @@ Day 14
 ✅ Laravel Jetstream and 
 ✅ Laravel Fortify
 Tomorrow I will be building a simple Authentication app for registration & login
+
+
+Day 15 & 16 
+
+I couldn't post for the past two days, for some reasons on the 4th was my brother's birthday, and I wasn't feeling too strong, but then I was enable to build a simple Authentication app.
+🚀 I build a Register and login layout using blading template
+✅ Create routes for the application 
+✅ Create all the action methods to handle registration, login, logout and authenticate users
+✅ Added an access control using blade - 
+✅ upload project to github
+
