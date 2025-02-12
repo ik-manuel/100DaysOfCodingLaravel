@@ -120,3 +120,31 @@ I couldn't post for the past two days, for some reasons on the 4th was my brothe
 ✅ Added an access control using blade - 
 ✅ upload project to github
 
+
+For no reason I failed to update here on github, here is 17 to 19 update.👇
+
+Day 17
+
+🚀 I created a simple CRUD app for creating posts using form
+✅ Create a routes and views for the CRUD app 
+✅ Write the controller logic for validation user input in the form.
+✅ User input validation rules
+✅ Feedback message for error/success.
+
+
+Day 18
+
+🚀 I learned about Eloquent: Mutators & Casting 
+✅ How to define Accessor
+✅ How to define Mutator
+✅ Attributes Casting
+
+
+Day 19
+
+🚀 I learned about File Storage in Laravel:
+✅ Laravel Filesystem configuration for Local and Public driver
+✅ How to Retrieve Files
+✅ How to store, manipulate and display files
+
+
