@@ -148,3 +148,9 @@ Day 19
 ✅ How to store, manipulate and display files
 
 
+Day 20
+
+🚀 I learned Laravel HTTP Requests and Responses
+✅ Interacting with Requests
+✅ Retrieving input and uploaded files
+✅ How to create and redirect response.
