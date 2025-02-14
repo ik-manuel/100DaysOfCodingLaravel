@@ -154,3 +154,21 @@ Day 20
 ✅ Interacting with Requests
 ✅ Retrieving input and uploaded files
 ✅ How to create and redirect response.
+
+
+Day 21
+
+🚀 I learned Middleware
+✅ How to define and register Middleware 
+✅ Assign Middleware to routes
+✅ Middleware Groups and Aliases
+
+
+Day 22
+
+🚀 I learned Laravel Session and Cache:
+✅ Cache & Session configuration 
+✅ How to interact with session
+✅ How to retrieve, store and remove data from cache
+✅ Cache drivers
+
