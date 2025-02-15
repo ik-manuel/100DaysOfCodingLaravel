@@ -172,3 +172,11 @@ Day 22
 ✅ How to retrieve, store and remove data from cache
 ✅ Cache drivers
 
+
+Day 23
+
+🚀 Laravel Mail
+✅ Mail driver's configuration 
+✅ How to generate & write Mailables
+✅ Markdown Mailables
+✅ Send Mail
