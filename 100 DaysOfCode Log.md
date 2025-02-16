@@ -180,3 +180,10 @@ Day 23
 ✅ How to generate & write Mailables
 ✅ Markdown Mailables
 ✅ Send Mail
+
+Day 24
+
+🚀 Error Handling, Logging and URL Generation 
+✅ Configuration & Handling Exceptions 
+✅ Config, writing log messages 
+✅ Generating & Accessing URL
