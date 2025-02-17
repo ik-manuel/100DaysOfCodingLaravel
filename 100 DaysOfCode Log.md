@@ -187,3 +187,11 @@ Day 24
 ✅ Configuration & Handling Exceptions 
 ✅ Config, writing log messages 
 ✅ Generating & Accessing URL
+
+Day 25 of #100DaysOfCode
+
+🚀 Validation 
+✅ How to write validation logic
+✅ Form Request Validation
+✅ Customize Error messages 
+✅ Custom validation rules
