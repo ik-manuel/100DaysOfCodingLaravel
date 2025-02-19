@@ -195,3 +195,19 @@ Day 25 of #100DaysOfCode
 ✅ Form Request Validation
 ✅ Customize Error messages 
 ✅ Custom validation rules
+
+Day 26
+
+🚀 Revisit what I have learned so far, while I prepare in putting them together to build a project.
+✅ Route, Controller, View and Migration.
+✅ Authentication, middleware, request and response
+✅ Eloquent ORM: it's relations
+✅ Session, cookie and cache
+
+Day 27
+
+🚀 I learned Authorization: - Gates and Policies
+✅ Write Gates, authorize actions and Gate responses
+✅ Generate & Register Policies
+✅ Write Policies, policy methods
+✅ Authorize actions using policies
