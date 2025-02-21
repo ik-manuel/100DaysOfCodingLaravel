@@ -211,3 +211,12 @@ Day 27
 ✅ Generate & Register Policies
 ✅ Write Policies, policy methods
 ✅ Authorize actions using policies
+
+Day 28
+
+🚀 Blade Templates 
+✅ Blade and JavaScript Frameworks
+✅ Blade Directives: If statements, Switch statements and Loops
+✅ Loops variable and
+✅ how to include Subviews
+
