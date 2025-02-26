@@ -220,3 +220,45 @@ Day 28
 ✅ Loops variable and
 ✅ how to include Subviews
 
+Day 29
+
+🚀 New Laravel installation for my new CMS project
+✅ Create Database, and configure app env file
+✅ Setup a virtual host
+✅ commit to git
+✅ Refactor blade template
+
+Day 30
+
+🚀 Project 
+✅ Create admin views
+✅ Create Admin controller and route
+✅ User role & relation
+✅ Install node js & it's packages
+
+Day 31
+
+🚀 Learned about Vite a modern frontend tool for bundling 
+✅ How to Install & setup Vite
+✅ Running vite: css & JavaScript 
+✅ Process static asset 
+✅ Asset prefetching
+
+Day 32
+
+🚀 CMS project
+✅ Display users in admin dashboard
+✅ Custom time function
+✅ Create new users model from admin dashboard 
+✅ Create Request for validating user
+✅ populate data from DB to form
+✅ Custom validation error message
+
+Day 33
+
+🚀 CMS project
+✅ Work on user edit page
+✅ Got stuck trying to display user role and status, in the edit form
+✅ Write Update validation rules and exception check for user password 
+✅ Update users from admin dashboard
+✅ Commit to git
