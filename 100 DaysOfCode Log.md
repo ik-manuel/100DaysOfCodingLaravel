@@ -262,3 +262,13 @@ Day 33
 ✅ Write Update validation rules and exception check for user password 
 ✅ Update users from admin dashboard
 ✅ Commit to git
+
+Day 34
+
+🚀 CMS project
+✅ Add photo upload feature
+🎯 I encounter "FileNotFoundException" error, which was as a result of temp temp file being deleted from the xampp temp dir. before upload.
+✅ Display user photo in Admin dashboard, edit page 
+✅ Use accessor to add dynamic image path
+✅ Use Carbon class to format date and concatenate it to image name
+
