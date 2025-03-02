@@ -272,3 +272,17 @@ Day 34
 ✅ Use accessor to add dynamic image path
 ✅ Use Carbon class to format date and concatenate it to image name
 
+Day 35 of #100DaysOfCode
+
+🚀 CMS project
+➡️ Spent the entire day trying to figure out, why the photo upload that was working yesterday stopped working. Funny how the create and update code for upload are slightly similar, but that for edit wasn't working.
+After countless tried n failed, only to discover that edit form was missing file enctype attribute.
+
+
+Day 36 of #100DaysOfCode
+
+🚀 CMS project
+✅ Create Admin middleware
+✅ Delete user and related photo model
+✅ Add flash message
+
